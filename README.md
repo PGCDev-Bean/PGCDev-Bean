@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, html, css, php
 - 🌱 I’m currently learning js, java
 - 💞️ I’m looking to collaborate on pgc
-- 📫 How to reach me you can email me <a src="mailto:bean.webop@projectgamingcommunity.uk">here<a/>
+- 📫 How to reach me you can email me <html><p><a src="mailto:bean.webop@projectgamingcommunity.uk">here<a/></p></html>
 
 <!---
 PGCDev-Bean/PGCDev-Bean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
